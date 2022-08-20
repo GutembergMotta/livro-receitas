@@ -1,10 +1,11 @@
-# Strogonoff de Frango :Chicken2 #
-## Strogonoff de Frango :Chicken ##
-### Ingredientes :man_cook: ###
+# Strogonoff de Frango :chicken: :woman:
+## Strogonoff de Frango :chicken:
+### Ingredientes :man_cook: :chick: :man:
 #### Ingredientes :man_cook:
 
--Pavê;
--Pudim de Leite condensado.
+-- Pavê;
+-- Pudim de Leite condensado.
+- - Camarão
 
 -[legal]
 -[Teste]
