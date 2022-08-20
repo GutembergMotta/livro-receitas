@@ -1,9 +1,8 @@
 # Strogonoff de Frango : Chicken
 ### Ingredientes
-H1 ok**
-**
+H1 ok
 
-ss
+ff
 
 - [legal]
 - [Teste]
