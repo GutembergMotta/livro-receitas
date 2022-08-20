@@ -1,7 +1,15 @@
-# Strogonoff de Frango :chicken: :woman: :man: :Man:
-## Strogonoff de Frango :chicken:
-### Ingredientes :man_cook: :woman_cook: :chick: :man: :car:
-#### Ingredientes :man_cook:
+# As nossas melhores receitas :chicken: :woman: :man:
+## Receitas com frango :chicken:
+- Frango Assaddo;
+- Strogonoff de Frango;
+- Frango frito. 
+
+## Receitas com camarão :man_cook: :woman_cook:
+- Bobó de camarão;
+- Camarão frito;
+- Camarão na brasa.
+
+## Sobremesas :cookie:
 
 - Pavê;
 - Pudim de Leite condensado.
